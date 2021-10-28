@@ -20,7 +20,7 @@ p {
   line-height: 1.4em;
 }
 
-a[title] {
+a[header] {
   color: purple;
 }
 
