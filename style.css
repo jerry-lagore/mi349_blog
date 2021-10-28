@@ -21,7 +21,15 @@ p {
 }
 
 a[header] {
-  color: purple;
+  color: black;
+}
+
+ul {
+  font-variant: small-caps;
+}
+
+li {
+  font-weight: 100;
 }
 
 #blog {
