@@ -20,8 +20,8 @@ p {
   line-height: 1.4em;
 }
 
-a[href*="MSU"] {
-    font-style: italic;
+a[title] {
+  color: purple;
 }
 
 #blog {
