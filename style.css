@@ -20,7 +20,7 @@ p {
   line-height: 1.4em;
 }
 
-td[href*="MSU"] {
+a[href*="MSU"] {
     font-style: italic;
 }
 
