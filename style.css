@@ -20,6 +20,10 @@ p {
   line-height: 1.4em;
 }
 
+td[href*="MSU"] {
+    font-style: italic;
+}
+
 #blog {
   border-top: 1px dotted #ccc;
 }
@@ -32,6 +36,3 @@ article {
   border-bottom: 1px dotted #000;
 }
 
-td[href="MSU"] {
-    font-style: italic;
-}
