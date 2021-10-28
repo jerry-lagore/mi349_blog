@@ -3,9 +3,9 @@ html {
 }
 
 body {
-  font-family: Arial, Helvetica, sans-serif;
-  margin: 40px;
-  padding: 40px;
+  font-family: 'Courier New', Courier, monospace;
+  margin: 50px;
+  padding: 50px;
   color: #242424;
   border-top: 10px solid #242424;
   background: #fff;
@@ -26,4 +26,12 @@ p {
 
 .blog-post {
   border-bottom: 1px dotted #ccc;
+}
+
+article {
+  border-bottom: 1px dotted #000;
+}
+
+td[href="MSU"] {
+    font-style: italic;
 }
