@@ -15,6 +15,10 @@ body {
   background:blue;
 }
 
+section {
+  display:flex;
+}
+
 h1 {
   font-size: 3em;
   margin: 0;
