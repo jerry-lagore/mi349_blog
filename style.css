@@ -16,7 +16,8 @@ body {
 }
 
 section {
-  display:flex;
+  background: gray;
+  display: flex;
 }
 
 h1 {
@@ -56,6 +57,9 @@ li {
 }
 
 article {
+  background: darkgray;
   border-bottom: 1px dotted #000;
+  padding: 20px;
+  margin: 20px;
 }
 
